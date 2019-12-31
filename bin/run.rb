@@ -1,4 +1,4 @@
-require './config/environment.rb'
+require relative './config/environment.rb'
 
 Hashie
 Sinatra
